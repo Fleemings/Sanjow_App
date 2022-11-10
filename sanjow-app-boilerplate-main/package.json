@@ -1,0 +1,34 @@
+{
+  "name": "sanjow_app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^1.1.1",
+    "@chakra-ui/react": "^1.7.3",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "framer-motion": "^5.5.5",
+    "jsonwebtoken": "^8.5.1",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^8.5.6",
+    "@types/react": "17.0.37",
+    "@typescript-eslint/eslint-plugin": "^5.8.0",
+    "@typescript-eslint/parser": "^5.8.0",
+    "eslint": "8.5.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-next": "12.0.7",
+    "eslint-plugin-import": "^2.25.3",
+    "sass": "^1.45.1",
+    "typescript": "4.5.4"
+  }
+}
